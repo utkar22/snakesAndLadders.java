@@ -34,6 +34,33 @@ Please note that the Tornado Floor is an additional feature I have implemented f
 
 For dice rolling, I have used a special dice with only two faces: 1 and 2. The dice randomly returns one of these two values, simulating the rolling mechanism.
 
+## Installation
+To download and run the game, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```shell
+   git clone https://github.com/your-username/snakes-and-ladders.git
+   ```
+   
+2. Navigate to the `src` directory:
+
+  ```
+  cd snakes-and-ladders/src
+  ```
+  
+3. Compile the Java files:
+
+  ```
+  javac Game.java
+  ```
+  
+4. Run the game:
+
+  ```
+  java Game
+  ```
+
 ## How to Play
 
 1. Run the game application.
