@@ -45,21 +45,21 @@ To download and run the game, follow these steps:
    
 2. Navigate to the `src` directory:
 
-  ```shell
-  cd snakes-and-ladders/src
-  ```
+   ```shell
+   cd snakes-and-ladders/src
+   ```
   
 3. Compile the Java files:
 
-  ```shell
-  javac Game.java
-  ```
+   ```shell
+   javac Game.java
+   ```
   
 4. Run the game:
 
-  ```shell
-  java Game
-  ```
+   ```shell
+   java Game
+   ```
 
 ## How to Play
 
